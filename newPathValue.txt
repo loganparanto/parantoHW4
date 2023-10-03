@@ -1,0 +1,1 @@
+New PATH value: /home/debian/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games:/home/debian/cpe422/:/home/debian/parantoHW4-1
